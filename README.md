@@ -7,11 +7,15 @@
 
 # Screenshots
 
-![](https://pandao.github.io/editor.md/examples/images/4.jpg](https://github.com/SergeyKryzhnyy/telegram-bot-shop/blob/main/admin_group.jpg?raw=true)
-> Follow your heart.
+[![](https://github.com/SergeyKryzhnyy/telegram-bot-shop/blob/main/admin_group.jpg?raw=true)](https://github.com/SergeyKryzhnyy/telegram-bot-shop/blob/main/admin_group.jpg?raw=true)
+> Admin Panel.
+
+[![](https://github.com/SergeyKryzhnyy/telegram-bot-shop/blob/main/users.jpg?raw=true)](https://github.com/SergeyKryzhnyy/telegram-bot-shop/blob/main/users.jpg?raw=true)
+> Users Panel.
 
 # Развертывание проекта
 1. Точка входа - index.php
 2. Класс БД и Телеграм - classes.php
 3. Токен бота и Id групп задаются в конструкторе класса telega
 4. Сервер БД - mysql. Необходимые таблицы в файле dump.sql
+5. Для работы бота нужен веб-хук и SSL.
