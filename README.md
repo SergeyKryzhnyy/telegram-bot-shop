@@ -7,7 +7,7 @@
 
 # Screenshots
 
-![](https://pandao.github.io/editor.md/examples/images/4.jpg)
+![](https://pandao.github.io/editor.md/examples/images/4.jpg](https://github.com/SergeyKryzhnyy/telegram-bot-shop/blob/main/admin_group.jpg?raw=true)
 > Follow your heart.
 
 # Развертывание проекта
